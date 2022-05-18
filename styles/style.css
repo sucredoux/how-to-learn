@@ -107,7 +107,6 @@
   position: relative;
   box-sizing: content-box;
   padding-top: 100px;
-  padding-bottom: 100px;
 }
 
 .two-columns {
@@ -162,7 +161,7 @@
   position: relative;
   flex-direction: column;
   justify-content: center;
-  box-sizing: content-box;
+  box-sizing: border-box;
   padding-top: 100px;
   padding-bottom: 100px;
 }
@@ -227,7 +226,7 @@
   position: relative;
   flex-direction: column;
   justify-content: flex-start;
-  box-sizing: content-box;
+  box-sizing: border-box;
   padding-top: 100px;
   color: #000;
   background-color: #f2f2f2;
@@ -275,7 +274,7 @@
   overflow: hidden;
   flex-direction: column;
   justify-content: center;
-  box-sizing: content-box;
+  box-sizing: border-box;
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #1f1f1f;
@@ -305,7 +304,7 @@
   display: flex;
   position: relative;
   min-height: 350px;
-  box-sizing: content-box;
+  box-sizing: border-box;
   padding-top: 60px;
   padding-bottom: 40px;
   background-color: #1f1f1f;
