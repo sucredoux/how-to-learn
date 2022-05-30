@@ -1,0 +1,6 @@
+.description {
+  display: flex;
+  position: relative;
+  box-sizing: content-box;
+  padding-top: 100px;
+}
