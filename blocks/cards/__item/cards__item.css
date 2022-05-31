@@ -9,6 +9,6 @@
   text-align: center;
 }
 
-.cards__item:nth-child(3) {
+.cards__item:nth-of-type(3n+3) {
   padding-right: 0;
 }
